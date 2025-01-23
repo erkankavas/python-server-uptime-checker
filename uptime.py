@@ -1,7 +1,3 @@
-// ERKAN KAVAS @ MIT LICENCE.
-// https://github.com/erkankavas/python-server-uptime-checker
-// https://www.erkankavas.com
-
 import subprocess
 
 def uptime():
@@ -17,4 +13,4 @@ def uptime():
 ut = uptime()
 print(f"Uptime: {ut[0]} day(s), {ut[1]} hour(s), {ut[2]} minute(s), {ut[3]} second(s)")
 
-// Respond Example: Uptime: 19 day(s), 0 hour(s), 18 minute(s), 41 second(s)
+# Respond Example: Uptime: 19 day(s), 0 hour(s), 18 minute(s), 41 second(s)
