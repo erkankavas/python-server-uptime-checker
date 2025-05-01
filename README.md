@@ -5,4 +5,4 @@ This repository contains a Python script to monitor server uptime efficiently. I
 Run the `python uptime.py` for testing script.
 
 ### Feature
-Adding telegram notification
+- Adding telegram notification
